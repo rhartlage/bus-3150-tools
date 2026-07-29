@@ -58,7 +58,7 @@ function renderPage() {
     <div class="site-shell">
       <header class="lab-header">
         <div class="masthead">
-          <a class="brand" href="/" aria-label="BUS-3150 Decision Labs home">
+          <a class="brand" href="/bus-3150/" aria-label="BUS-3150 Decision Labs home">
             <span class="brand-mark" aria-hidden="true">3150</span>
             <span><strong>Decision Labs</strong><small>Operations Analysis</small></span>
           </a>
@@ -143,7 +143,7 @@ function renderPage() {
 
       <footer>
         <span>BUS-3150 · Concept → Model → Decision</span>
-        <a href="/">Return to all labs</a>
+        <a href="/bus-3150/">Return to all labs</a>
       </footer>
       <p id="live-status" class="sr-only" aria-live="polite"></p>
     </div>
